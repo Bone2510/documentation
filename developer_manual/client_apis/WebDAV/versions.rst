@@ -20,4 +20,4 @@ Restoring a version
 ---------------------------
 
 To restore a version all that needs to be done is to move a version
-the special restore folder at :code:`https://cloud.example.com/remote.php/dav/versions/USER/restore`
+the special restore folder at :code:`https://cloud.example.com/remote.php/dav/versions/USER/restore/target`
